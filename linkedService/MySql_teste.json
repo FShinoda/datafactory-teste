@@ -1,0 +1,12 @@
+{
+	"name": "MySql_teste",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "MySql",
+		"typeProperties": {
+			"connectionString": "server=129.213.131.233;port=400;database=carloca;user=root;sslmode=1;usesystemtruststore=0",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDRFRjdGNjhGLTBDMjMtNEMwOS1CNTU0LUIyMEE1NTE5NkI2NF8wNjY4ZDFiMi1kODA5LTRlYTMtYmIxNC0xNTEyMzg1NzM2YjciDQp9"
+		}
+	}
+}
