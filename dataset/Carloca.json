@@ -1,0 +1,15 @@
+{
+	"name": "Carloca",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MySql_teste",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "MySqlTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "`LOC_AGE_BCO`"
+		}
+	}
+}
