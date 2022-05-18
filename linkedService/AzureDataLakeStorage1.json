@@ -17,7 +17,7 @@
 		"type": "AzureBlobFS",
 		"typeProperties": {
 			"url": "https://carloca.dfs.core.windows.net",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjOWVmNGI3ZC01YzU5LTQyMzctOWJmOS03Y2IxMDBmYWRiNjIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4ZTgyMjA4Yi1jZGM4LTRhZWQtODU2Yi1kNzI2MTA1ZmRiNTkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "aaaruntime1",
